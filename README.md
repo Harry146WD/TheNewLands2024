@@ -5,7 +5,7 @@
 
 -  Los mods de la carpeta Mods/CLIENT no son estrictamente necesarios pero si son recomendados para mejor experiencia
 
--  Los mods de la carpeta Mods/SERVE NO hace falta instalarlos, son los que ejecuta el servidor
+-  Los mods de la carpeta Mods/SERVER NO hace falta instalarlos, son los que ejecuta el servidor
 
 -  Tambien se adjuntan algunos resourcepacks de preferencia
 
